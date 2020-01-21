@@ -1,8 +1,3 @@
-## Tango-King 学习Github
-## 资料1
-
-##脚本
-'''sql
 CREATE TABLE USER
 (
   ID           INTEGER AUTO_INCREMENT PRIMARY KEY NOT NULL,
@@ -12,4 +7,3 @@ CREATE TABLE USER
   GMT_CREATE   BIGINT,
   GMT_MODIFIED BIGINT
 )
-'''
